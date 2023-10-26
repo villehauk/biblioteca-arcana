@@ -1,0 +1,19 @@
+Ataque: custa 1 ação. Role 1d20 e some suas habilidades de ataque(atributo, proficiência, maestria, feitiços, efeitos e entre outros).
+  • Ataque corpo-a-corpo: Você pode usar apenas o que a arma pede, a menos que você tenha alguma habilidade de permita usar outro atributo
+  • Ataque a distância: Você pode apenas usar destreza para ataques a menos de 10 metros(casos especiais permitem usar sentidos), precisão para acima de 10 metros(casos especiais permitem usar calculo)
+  • Ataque mágico: Usa vontade, mais especificamente magia, casos especiais permitem usar aparência ou então intelecto
+
+Ataques especiais: Você pode declarar ataques especiais ao invés de fazer um ataque normal, esses ataques especiais podem ou não causar dano, mas caso você use a ação "preparar" previamente para
+alvejar um alvo, você pode fazer isso juntamente com seu ataque normal, você faz o efeito e ainda ataca o alvo normalmente. Você pode fazer apenas UM ataque especial preparado, caso você use sua
+ação para preparar outro ataque especial, o novo toma lugar.
+  • desarmar: Você faz uma rolagem de ataque oposta a um teste de reflexos ou de atletismo do seu oponente. Caso você ganhe, a arma do seu oponente vai aos ares e cai no chão, um teste de reflexos de
+  qualquer um pode pegar a arma para si, caso a pessoa esteja preparada, caso despreparada, ela faz a rolagem com -5 de penalidade. Só pode ser usado caso a arma possa ser largada.
+  (corpo-a-corpo apenas)(pode ser usado a distância apenas sem a ação preparar)
+  • empurrar: Você faz uma rolagem de ataque desaramdo oposta a um teste de reflexos, de atletismo ou de acrobacia do seu oponente. Caso você ganhe, seu oponente é empurrado 1 metro para trás.
+  Caso o oponente tenha rolado acrobacia e ganhado, ele pode escolher entre não ser empurrado ou ser empurrado e não causar ataques de oportunidade.
+  • derrubar: Você faz uma rolagem de ataque desarmado oposta a um teste de reflexos, de atletismo ou de acrobacia do seu oponente. Caso você ganhe, seu oponente cai no chão.
+  • agarrar: Você faz uma rolagem de ataque desamado oposta a um teste de reflexos ou de atletismo. Caso você ganhe, seu oponente fica paralisado sem poder atacar
+
+Ataques de ação bônus: Ataques de ação bônus incluem ataque com a mão secundária ou feitos a partir do uso de algum equipamento que tenha seu uso como uma ação bônus. Normalmente você não pode
+somar sua proficiência e maestrias em um ataque de ação bônus, a menos que você tenha certas características de batalha. Atacar com a mão secundária pode ser feito usando uma ação, nesse caso
+poderão sim ser somados proficiência e maestria.
