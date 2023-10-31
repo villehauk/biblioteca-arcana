@@ -1,4 +1,5 @@
-desvio: Você pode usar sua ação para tomar a ação de desvio, a qual adiciona seus reflexos ao seu AC.
+desvio: Você pode usar sua ação para tomar a ação de desvio, a qual adiciona seus reflexos ao seu AC e pode atacar com penalidade(-2), caso seu
+oponente erre o ataque(sem gastar reação)
 
 instância defensiva: Você pode usar sua ação para entrar em instância defensiva, você soma sua resistência a sua robustez e pode atacar com
-penalidade assim que atacado(isso não gasta reação)
+penalidade(-2) assim que atacado(isso não gasta reação)
