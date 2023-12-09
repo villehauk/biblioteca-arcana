@@ -3,3 +3,9 @@ oponente erre o ataque(sem gastar reação)
 
 instância defensiva: Você pode usar sua ação para entrar em instância defensiva, você soma sua resistência a sua robustez e pode atacar com
 penalidade(-2) assim que atacado(isso não gasta reação)
+
+ataque preparado: Você pode usar sua ação para esperar até que seu oponente apareça, caso tenha se movido menos que metade da sua velocidade, você
+adiciona sua precisão ao seu ataque.
+
+reação de desvio: Você pode utilizar sua reação para desviar de um ataque inimigo, caso passe em uma rolagem de reflexos, você evita o dano
+inteiramente, caso não passe, você toma metade do dano, isso não funciona em ataques de AoE
