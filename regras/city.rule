@@ -12,6 +12,7 @@ fazer investimentos.
   • administração e gestão
   • investir
 
+
 • Criação: Você pode usar lugares públicos ou privados, com as devidas licensas ou mesmo lugares próprios(você tem os direitos legais sobre
 referida propriedade) para criar mercadorias, sejam itens ou equipamentos, sejam de uso próprio ou para vender. Normalmente a criação de algo
 requer o gasto de dinheiro em recursos, ou uma grande aventura para conseguir todos os reagentes necessários.
@@ -22,6 +23,7 @@ requer o gasto de dinheiro em recursos, ou uma grande aventura para conseguir to
   • criar equipamentos
   • criar itens
 
+
 • inteligência: servem para ganhar informações sobre diversos assuntos, você pode encontrar a informação que procura no lugar certo, ou as vezes,
 da forma mais inesperada. Exemplos de informações seriam por exemplo prospectar informações conversando com locais, procurando em documentos com
 suas devidas licenças, bibliotecas e entre outros
@@ -30,9 +32,11 @@ suas devidas licenças, bibliotecas e entre outros
   • fontes específicas
   • Bibliotecas
 
+
 • favores(quests): consultando as pessoas, elas as vezes podem apresentar algum problema, o qual você saiba como ou tenha as condições de resolver.
 Esses favores podem dar dinheiro dependendo do favor, informações, reputação e até mesmo amizades. Dependendo das intenções do personagem e do
 serviço, isso pode afetar o alinhamento. Caso não se enquadre como criminal, não haverá queda de sanidade ao realizá-las.
+
 
 • Criminal: Atividades irregulares como contrabando, tráfico, assalto, assassinatos, prática de conhecimentos proibidos e outros crimes são
 atividades que danificam a moral da cidade e provocam a ira da guarda local. Esse tipo de atividade costuma reduzir a reputação, trazer dinheiro
@@ -40,6 +44,7 @@ de forma fácil dependendo do trabalho, aumentar reputação e respeito com fac�
 em certas cidades, entrar em conflitos de facções e dependendo do ódio que determinados países e facções têm de você, podem mandar grupos de
 busca atrás de você ou mesmo ordenar sua extradição. Essas atividades tiram sanidade de personagens neutros, leais ou bondosos, dependendo da
 ação e caso recorrentes, podem trocar seu alinhamento para um mais perto dos alinhamentos malignos ou caóticos, dependendo da ação.
+
 
 • Antimundanas: Evitar o mundanismo, atividades desse tipo envolvem a busca a sua divindade, meditação, filosofias, psicologia e entre outras.
 Essas atividades aumentam sua sanidade e fazem seu alinhamento caminhar para um bondoso e dependendo da atividade, leal. Essas atividades também
@@ -49,9 +54,16 @@ aumentam seus pontos e grau em magia divina.
 
 • Praticar: Aumento de habilidades, por exemplo, acrescer um atributo, aumentar a maestria, aumentar um grau com uma habilidade e entre outros.
   De forma fechada:
-  • Praticar atributos(1 mês=1 ponto)
-  • Praticar maestria
-  • Aumentar habilidade em ofício(1 ponto por dia, essa prática está sob as regras de prática...)
+  • Praticar atributos(3 mês=1 ponto)
+  • Praticar maestria(depende da habilidade a subir maestria)
+  • Aumentar habilidade em ofício(1 ponto a cada item de ofício criado caso o item seja do último nível do ofício)
 
-A estadia em uma cidade pode ser dividida em:
-• Aristocrata: quartos e comidas da melhor qualidade.
+• Estadia:
+  A estadia em uma cidade pode ser dividida em:
+  • Aristocrata: (10GP por dia)
+  • Rico: (4GP por dia) 
+  • Confortavel: (2GP por dia)
+  • Modesto: (1GP por dia)
+  • Pobre: (2SP por dia)
+  • Esquálido: (1SP por dia)
+  • Miserável: (--)
